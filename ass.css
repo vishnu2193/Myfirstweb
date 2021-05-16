@@ -230,3 +230,12 @@ marquee{
     color: solid black;
     
 }
+.account:hover{
+    background-color:firebrick;
+    
+}
+
+.left:hover{
+    background-color:burlywood;
+    color: brown;
+}
