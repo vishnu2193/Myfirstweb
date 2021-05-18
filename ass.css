@@ -1,0 +1,242 @@
+* {
+    font-family: poppins;
+
+
+}
+
+header {
+    background-color: #ce0505;
+    height: 80px;
+    position: relative;
+    width: 100%;
+    
+}
+
+.logo {
+
+    color: #ce0505;
+    font-size: 33px;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
+.logo-span {
+    background-color: #ffffff;
+    border-radius: 50%;
+    padding: 5px 15px;
+    position: absolute;
+    left: 80px;
+    top: 10px;
+}
+
+.login-signup {
+    position: absolute;
+    right: 80px;
+    top: 25px;
+    word-spacing: 10px;
+
+}
+
+.login {
+    color: white;
+    text-decoration: none;
+}
+
+.account {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+    word-spacing: normal;
+    border-radius: 5px;
+}
+
+section {
+
+    position: relative;
+    padding: 20px 50px;
+
+}
+
+.title {
+
+    color: #192f60;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+    
+}
+
+.filter-article {
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    width: 260px;
+    height: 662px;
+    color: #192f60;
+    position: relative;
+
+
+
+
+}
+
+.result1 {
+
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    width: 794px;
+    height: 291px;
+    position: absolute;
+    top: 88px;
+    left: 350px;
+    color: #192f60;
+}
+
+.result2 {
+
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    width: 794px;
+    height: 291px;
+    position: absolute;
+    top: 400px;
+    left: 350px;
+}
+
+.F {
+    font-weight: bold;
+    margin: 10px 20px;
+    padding-top: 10px;
+
+}
+
+.S {
+
+    margin: 10px 20px;
+}
+
+.select {
+    width: 208px;
+    height: 35px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+    color: #8c96ab
+}
+
+.check {
+    margin: 10px 20px;
+    color: #8c96ab;
+    margin-bottom: 20px;
+
+}
+
+.Radio {
+    margin: 10px 20px;
+    color: #8c96ab;
+    margin-bottom: 20px;
+}
+
+.Radio1 {
+    margin: 10px 20px;
+    color: #8c96ab
+}
+
+.C {
+    margin: 10px 20px;
+
+}
+
+.Co {
+    margin: 10px 20px;
+}
+
+.SO {
+    margin: 10px 20px;
+    font-weight: 600;
+}
+
+.Image {
+    top: 25px;
+    position: absolute;
+    left: 35px;
+    border-radius: 23px;
+    width: 120px;
+    height: 120px;
+}
+
+.Top {
+    left: 190px;
+    position: absolute;
+    top: 35px;
+}
+
+.B {
+    font-size: 30px;
+    font-weight: 600;
+    color: #192f60;
+}
+
+.Address {
+    color: #636f88;
+
+}
+
+.line {
+    width: 726.4px;
+    position: absolute;
+    margin: 31px 0 0;
+    border: solid 1px #dedfe5;
+    top: 140px;
+    left: 30px;
+}
+
+.cato {
+    color: #636f88;
+    position: absolute;
+    top: 200px;
+    left: 35px;
+}
+
+.item {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    color: #192f60;
+
+}
+
+.Numbers {
+    position: absolute;
+    left: 600px;
+    bottom: 10px;
+
+}
+
+.left {
+    border: 1px solid #8c96ab;
+    margin-right: 10px;
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    text-decoration: none;
+    color: darkblue;
+    
+
+}
+marquee{
+    position: absolute;
+    color: solid black;
+    
+}
+.account:hover{
+    background-color:firebrick;
+    
+}
+
+.left:hover{
+    background-color:burlywood;
+    color: brown;
+}
